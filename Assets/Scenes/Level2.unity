@@ -2490,6 +2490,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8508499743244934593, guid: 8abde20158b7fa0499082a46879f9d22,
+        type: 3}
+      propertyPath: _maxDragDistance
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 8508499743244934597, guid: 8abde20158b7fa0499082a46879f9d22,
         type: 3}
       propertyPath: m_RootOrder
